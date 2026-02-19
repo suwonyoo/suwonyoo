@@ -18,6 +18,9 @@ Hi, I'm Junhyeok Yoo, dedicated to be a passionate blockchain developer
   - Analyzed scam activities in blockchain networks, focusing on phishing, rug pulls, and sybil attacks.
   - Explored on-chain and off-chain detection methods for identifying fraudulent activities in DeFi and NFT marketplaces.
 
+- Researcher at Four Pillars
+  - 2025.1 ~ Present
+
 
 <!--
 **suwonyoo/suwonyoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
